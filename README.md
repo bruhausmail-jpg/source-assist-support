@@ -8,7 +8,7 @@ Source Assist helps users find thrift stores, garage sales, and estate sales wit
 
 If you experience issues with the app or have questions, please contact:
 
-Email: support@sourceassist.app
+Email: bruhausmail@gmail.com
 
 ## Features
 
