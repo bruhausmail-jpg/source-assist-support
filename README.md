@@ -10,8 +10,6 @@ If you experience issues with the app or have questions, please contact:
 
 Email: support@sourceassist.app
 
-(Replace with your preferred support email)
-
 ## Features
 
 - Thrift Store Finder
